@@ -8,7 +8,7 @@ to provide actionable investment insights.
 
 ## 🚀 Overview
 
-This automated workflow performs weekly analysis on selected stocks using a combination of financial data, technical indicators, and sentiment analysis. You’ll receive a fully styled, responsive HTML email in **Hebrew** (including RTL layout) with detailed stock recommendations and insights.
+This automated workflow performs weekly analysis on selected stocks using a combination of financial data, technical indicators, and sentiment analysis. You’ll receive a fully styled, responsive HTML email in with detailed stock recommendations and insights.
 
 ### 🔍 Key Features
 
